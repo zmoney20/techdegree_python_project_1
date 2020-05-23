@@ -85,3 +85,4 @@ def start_game():
 
 # Kick off the program by calling the start_game function.
 start_game()
+print("Thanks for playing!")
